@@ -1,0 +1,41 @@
+.navbar{
+    padding: 1%;
+}
+.nav-item{
+    margin: 0 0.5rem;
+}
+.content{
+    text-align: center;
+    margin: 1rem 1rem;
+    padding: 3%;
+}
+.name-field{
+    margin:1rem 1rem;
+}
+.card{
+    margin: 4%;
+    
+}
+
+#calculate-button{
+    margin: 1rem;
+}
+
+#result{
+    padding: 2% 3%;
+    visibility: hidden;
+}
+
+#personOne , #personTwo{
+    margin: auto;
+}
+
+#parent {
+    text-align: center;
+    margin: auto;
+    padding: 5rem;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
